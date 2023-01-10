@@ -1,7 +1,7 @@
 import random
 import pyautogui as pg
 import time
-words=('Python learner','Python For Beginners','Try python')
+words=('wait dekaitesi','r dekba?','valo hou masud....')
 time.sleep(8)
 
 for i in range(100):
